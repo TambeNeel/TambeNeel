@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Neel Tambe
-- 👀 I’m a curious Data Analyst guy.
-- 🌱 I’m currently learning Machine Learning fundamentals.
-- 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me on www.linkedin.com/in/neel-tambe
+# 👋 Hi, I'm Neel Tambe
+
+🎓 MSc in Data Analytics | 🧠 AI Engineer | 💻 Python • LLMs • Streamlit • ML Ops  
+🔍 Currently exploring full-time opportunities in **AI Engineering** and **Applied Machine Learning**  
+🚀 Passionate about building intelligent, scalable systems using **LLMs**, **ETL**, and **cloud platforms**  
+📊 From automating resume-job matching with GPT to forecasting renewable energy pricing — I bring AI into action  
+🛠 Tech I love: Python, Streamlit, OpenAI, Claude, Azure, GCP, scikit-learn, Dagster, Power BI  
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/neel-tambe/) | [Email](mailto:tambeneel12@gmail.com)
+
 
 
 <!---

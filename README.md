@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Neel Tambe
 
-🎓 MSc in Data Analytics | 🧠 AI Engineer | 💻 Python • LLMs • Streamlit • ML Ops  
-🔍 Currently exploring full-time opportunities in **AI Engineering** and **Applied Machine Learning**  
+🎓 MSc in Data Analytics | 🧠 Data Scientist | Data Analyst | 💻 Python • LLMs • Streamlit • ML Ops  
+🔍 Currently exploring full-time opportunities in **Data Scientist** and **Machine Learning**  
 🚀 Passionate about building intelligent, scalable systems using **LLMs**, **ETL** and **cloud platforms**  
 📊 From automating resume-job matching with GPT to forecasting renewable energy pricing — I bring AI into action  
 🛠 Tech I love: Python, Streamlit, OpenAI, Claude, Azure, GCP, scikit-learn, Dagster, Power BI  
